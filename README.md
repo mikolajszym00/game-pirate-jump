@@ -1,6 +1,6 @@
 # PirateJump
 The game, written in C++, is built using an external framework based on SDL2. It utilizes free-to-use game assets.
 
-![Screenshoot1](./img/screenshoot1.png)
+![Screenshot1](./img/screenshot1.png)
 
-![Screenshoot2](./img/screenshoot2.png)
+![Screenshot2](./img/screenshot2.png)
